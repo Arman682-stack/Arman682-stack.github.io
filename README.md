@@ -1,5 +1,33 @@
 <!DOCTYPE html>
-ak
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Por<tfolio Page</title>
+</head>
+<body> 
+    <h1>Welcome to My Portfolio</h1>
+     <h2>Name:</h2>
+     <p> MD ARMAN ALI</p>
+     <h2>About me:</h2>
+     <p>I am a student of BCE Bhagalpur and currently learning Web Development.I am eager to seek an oppurtunities to dive into the tech world</p>
+
+     <h2>Education:</h2>
+        <p>Completed my matriculation from p c high school patsa.</p>
+        <p>Completed my Intermediate from p c high school patsa.</p>
+     <p>Currently pursuing B.Tech in Electrical engineering from BCE Bhagalpur.</p>
+
+     <h2>Skills:</h2>
+        <ul>
+            <li>Programming languages-- Java,Python,C</li>
+            <li>MySQL</li>
+            <li>HTML</li>
+        </ul> 
+    <h2>Links</h2>
+    <ul>
+        <li><a href="https://github.com/Arman682-stack">GitHub</a></li>
+    
 </body>
-</body>html>
+</html>
+
 
